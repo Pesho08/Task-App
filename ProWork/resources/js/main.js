@@ -1,0 +1,1 @@
+window.javaApp.showMessage("Hello World");
